@@ -1,5 +1,5 @@
 unsigned char resource[] = {
-#embed "./resource"
+#embed <stdlib.h>
 };
 
 int main(void) {
