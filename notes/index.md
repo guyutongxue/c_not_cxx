@@ -22,3 +22,8 @@ C23 但 C++26 未跟进：
 
 其它
 - gram.key C++ 关键字
+
+C++ \[diff.iso\]
+- expr.comma-decay.c 逗号表达式引发 C 数组退化
+- class.volatile-copy-ctor C++ 不允许 volatile 复制
+- class.typedef-name-in-mem C++ 不允许成员名为已 typedef 名（无法演示）
